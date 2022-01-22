@@ -9,8 +9,10 @@
 
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=luldsilva&show_icons=true&locale=en" alt="luldsilva" style="max-width: 100%"; height="180em" align="middle">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luldsilva&show_icons=true&locale=en&layout=compact" alt="luldsilva" style="max-width: 100%"; height="180em" align="middle" color="black">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luldsilva&show_icons=true&locale=en&layout=compact" alt="luldsilva" style="max-width: 100%"; height="180em" align="middle">
 </p>
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
