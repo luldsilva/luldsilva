@@ -8,9 +8,7 @@
 - 📫 How to reach me **lucaslisilva@outlook.com**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luldsilva&show_icons=true&locale=en&layout=compact" alt="luldsilva" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luldsilva&show_icons=true&locale=en" alt="luldsilva" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luldsilva&show_icons=true&locale=en&layout=compact" alt="luldsilva" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luldsilva&show_icons=true&locale=en" alt="luldsilva" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
