@@ -11,9 +11,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luldsilva&show_icons=true&locale=en" alt="luldsilva" /></p>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas-silva-6679a21b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-silva-6679a21b0" height="30" width="40" /></a>
 <a href="https://instagram.com/lucasmihayaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasmihayaz" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luldsilva&show_icons=true&locale=en&layout=compact" alt="luldsilva" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luldsilva&show_icons=true&locale=en" alt="luldsilva" /></p>
 
