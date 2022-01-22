@@ -8,8 +8,8 @@
 - 📫 How to reach me **lucaslisilva@outlook.com**
 
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=luldsilva&show_icons=true&locale=en" alt="luldsilva" style="max-width: 100%"; height="180em" align="middle">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luldsilva&show_icons=true&locale=en&layout=compact" alt="luldsilva" style="max-width: 100%"; height="180em" align="middle">
+<img src="https://github-readme-stats.vercel.app/api?username=luldsilva&show_icons=true&locale=en;theme=omni&amp;"  style="max-width: 100%"; height="180em" align="middle">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=luldsilva&show_icons=true&locale=en&layout=compact"  style="max-width: 100%"; height="180em" align="middle">
 </p>
 
 <br>
