@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luldsilva&label=Profile%20views&color=0e75b6&style=flat" alt="luldsilva" /> </p>
 
-- 🔭 I’m currently working on **Flash**
-
-- 📫 How to reach me **lucaslisilva@outlook.com**
+- 📫 How to reach me **lucasstrlisilva@outlook.com**
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=luldsilva&show_icons=true&locale=en" data-canonical-src="https://github-readme-stats.vercel.app/api?username=luldsilva&show_icons=true&locale=en;theme=omni&amp"  style="max-width: 100%"; height="180em" align="middle">
