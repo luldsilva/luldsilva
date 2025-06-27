@@ -14,7 +14,7 @@ Full-stack developer passionate about solving problems through code. I'm especia
 My current stack of work and studies:
 
 - **Backend:** C# / ASP.NET Core / .NET Framework / Node.js  
-- **Frontend:** Angular / React / Vue.js  
+- **Frontend:** React / Angular / Vue.js  
 - **Databases & Caching:** SQL Server / PostgreSQL / MongoDB / MySql / Redis  
 - **APIs:** REST / GraphQL  
 - **Cloud:** Microsoft Azure / AWS  
