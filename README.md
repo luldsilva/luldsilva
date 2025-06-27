@@ -15,7 +15,9 @@ My current stack of work and studies:
 
 - **Backend:** C# / ASP.NET Core / .NET Framework / Node.js  
 - **Frontend:** React / Angular / Vue.js  
-- **Databases & Caching:** SQL Server / PostgreSQL / MongoDB / MySql / Redis  
+- **Databases & Caching:** SQL Server / PostgreSQL / MongoDB / MySql / Redis
+- **Message Brokers:** Kafka / RabbitMQ
+- **Monitoring & Observability:** DataDog / Grafana  
 - **APIs:** REST / GraphQL  
 - **Cloud:** Microsoft Azure / AWS  
 - **CI/CD:** Azure DevOps / GitHub Actions
